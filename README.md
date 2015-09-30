@@ -1,7 +1,7 @@
 # ecs-gravityforms-bsn
 Dutch BSN mask &amp; validation for Gravity Forms
 
-Version: 1.0
+Version: 1.0<br>
 Author: [Elephant](http://elephantcs.nl/), Martijn Schipper<br>
 Tags: Gravity Forms, BSN, Sofinummer<br>
 
