@@ -22,7 +22,9 @@ Download the plugin and add it to wp-content/plugins/ecs-gravityfroms-bsn or dow
 ## Screenshots
 
 1: Input mask<br>
-2: Validation
+![Gravityforms BSN input mask](https://github.com/elephantcs/ecs-gravityforms-bsn/blob/master/assets/screenshot-1.png "Gravityforms BSN input mask")<br>
+2: Validation<br>
+![Gravityforms BSN input validation](https://github.com/elephantcs/ecs-gravityforms-bsn/blob/master/assets/screenshot-2.png "Gravityforms BSN input validation")
 
 ## License
 
