@@ -2,14 +2,14 @@
 Dutch BSN mask &amp; validation for Gravity Forms
 
 Version: 1.0
-Author: [Elephant](http://elephantcs.nl/), Martijn Schipper
-Tags: Gravity Forms, BSN, Sofinummer
+Author: [Elephant](http://elephantcs.nl/), Martijn Schipper<br>
+Tags: Gravity Forms, BSN, Sofinummer<br>
 
 ## Requirements
 
-Requires Wordpress 3.8
-Tested up to WordPress 4.4
-Tested with Gravity Forms 1.9.*
+Requires Wordpress 3.8<br>
+Tested up to WordPress 4.4<br>
+Tested with Gravity Forms 1.9.*<br>
 
 ## Description
 
@@ -21,7 +21,7 @@ Download the plugin and add it to wp-content/plugins/ecs-gravityfroms-bsn or dow
 
 ## Screenshots
 
-1: Input mask
+1: Input mask<br>
 2: Validation
 
 ## License
